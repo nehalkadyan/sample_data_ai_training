@@ -1,0 +1,13 @@
+order_id,customer_name,customer_email,product_id,product_name,category,raw_price,stock_qty,order_status
+ORD-101,"  Alice Smith  ",alice@example.com,P501,"  NIKE Air Max Running Shoes !!!  ",Footwear,$120.00,10,Delivered
+ORD-102,Bob Jones,bob@example.com,P502,Apple AirPods Pro (2nd Gen),ELECTRONICS,$249.00,0,Delivered
+ORD-103,Charlie Brown,charlie@gmail.com,P503,"Puma Dry-Fit Sports T-Shirt ",apparel,35.50 USD,25,Delivered
+ORD-104," Diana Prince ",diana@amazon.com,P504,Sony WH-1000XM5 Headphones,Electronics,$399.00,-3,Delivered
+ORD-105,Evan Wright,evan@outlook.com,P505,Mechanical Gaming Keyboard,Accessories,85,5,Shipped
+ORD-106,Corrupted User,,P506,Broken Product Without Price,,,0,Cancelled
+ORD-107,Fiona Gallagher,fiona@yahoo.com,P507,Basic Cotton Socks 3-Pack,apparel,$999999.00,40,Delivered
+ORD-108,George Miller,george@outlook.com,P508,Wireless Optical Mouse,Accessories,-45.00,15,Delivered
+ORD-109,Hannah Abbott,hannah_invalid_email,P509,Insulated Water Bottle 750ml,Accessories,$22.50,12,Delivered
+ORD-101,Alice Smith,alice@example.com,P501,NIKE Air Max Running Shoes,Footwear,$120.00,10,Delivered
+ORD-110,Ian Malcolm,ian@jurassic.org,P510,Leather Formal Belt (Black),Accessories,FREE,8,Delivered
+ORD-111,Julia Roberts,julia@cinema.com,P511,Ergonomic Office Chair,furniture,$250.00,999999,Delivered

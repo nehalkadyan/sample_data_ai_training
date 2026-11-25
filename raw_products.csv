@@ -1,0 +1,9 @@
+product_id,title,category,raw_price,stock_qty,rating,description
+P101,"  NIKE Air Max 90 (Men's) - Black/Red !!!  ",Footwear,$130.00,15,4.8,"Premium cushioned running shoes for daily workouts and marathon training."
+P102,adidas Ultraboost Light running shoes,FOOTWEAR,180,-2,4.7,"Ultra-lightweight responsive sneakers designed for running and athletics."
+P103,"Puma Training Dry-Fit T-Shirt (Blue) ",Apparel,$35.50,50,4.2,"Breathable dry-fit polyester gym training shirt for sports and fitness."
+P104,"Apple AirPods Pro (2nd Gen) with MagSafe Case",Electronics,$249.00,8,4.9,"Active noise cancelling wireless earbuds with spatial audio and long battery."
+P105,"  sony WH-1000XM5 wireless noise cancelling headphones ",electronics,399.99 USD,12,4.8,"Industry leading noise cancellation over-ear Bluetooth headphones with mic."
+P106,Stainless Steel Insulated Water Bottle 1L,Accessories,25,100,4.5,"Eco-friendly double-walled stainless steel thermal flask keeps water cold 24h."
+P107,Corrupted Row With Missing Price and Category,,,0,,Missing Info
+P108,ASICS Gel-Kayano 30 Stability Shoes,Footwear,$160.00,20,,"High stability running shoes designed for overpronation support."
